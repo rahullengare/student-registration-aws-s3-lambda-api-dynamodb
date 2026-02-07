@@ -2,11 +2,8 @@
 ### student-registration-aws-s3-lambda-api-dynamodb
 A full-stack serverless application using Amazon S3 for static hosting, API Gateway for RESTful routing, and AWS Lambda to process and store student data into Amazon DynamoDB.
 
-<p align="center">
-  <a href="[http://student-registration-form-aws-s3-lambda.s3-website-us-east-1.amazonaws.com/]" target="_blank">
-    <img src="https://img.shields.io/badge/Run_Project_Live-28a745?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Run Project Live">
-  </a>
-</p>
+Click Here To Run this Project
+👉http://student-registeration-form-aws-s3-lambda.s3-website-us-east-1.amazonaws.com 👈
 
 ---
 
@@ -136,5 +133,5 @@ https://xxxxx.execute-api.region.amazonaws.com/prod/register
 
 Your **Serverless Student Registration Portal** is now live using AWS serverless services.
 
-### Click here To check this Project ->> http://student-registeration-form-aws-s3-lambda.s3-website-us-east-1.amazonaws.com
+Click Here To Run this Project 👉http://student-registeration-form-aws-s3-lambda.s3-website-us-east-1.amazonaws.com 👈
 ---
