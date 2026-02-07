@@ -130,5 +130,5 @@ https://xxxxx.execute-api.region.amazonaws.com/prod/register
 
 Your **Serverless Student Registration Portal** is now live using AWS serverless services.
 
-Click here To check this Project ->> http://student-registeration-form-aws-s3-lambda.s3-website-us-east-1.amazonaws.com
+### Click here To check this Project ->> http://student-registeration-form-aws-s3-lambda.s3-website-us-east-1.amazonaws.com
 ---
